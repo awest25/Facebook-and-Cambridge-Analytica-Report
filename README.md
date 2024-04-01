@@ -2,8 +2,7 @@
 
 <img width="621" alt="image" src="https://github.com/awest25/Facebook-and-Cambridge-Analytica-Report/assets/93575706/12d2f4ea-0151-493e-8aa8-b7edf0cfbc68">
 
-**Alexander West**
-**Date:** March 8th, 2024
+**Alexander West** | March 8th, 2024
 
 ## Table of Contents  
 
